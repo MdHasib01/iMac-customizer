@@ -20,7 +20,7 @@ function totalCalculate(product,price){
 }
 
 /* ----------------------------------------------
-        all on click functions of buttons 
+        all onclick function of buttons 
 -------------------------------------------------*/
 
 function memory8Gb(){totalCalculate('memory-cost',0)};
