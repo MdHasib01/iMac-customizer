@@ -46,4 +46,5 @@ function promoButton(){
     if(promoCodeText.toLowerCase()=='stevekaku'){
         total.innerText=parseInt(subTotalNumber)-cuponCalc}
     else{alert('Promo code did not match')}
+    promoCode.value='';
 };
